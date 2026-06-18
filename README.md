@@ -42,4 +42,4 @@ Apache Kafka • RabbitMQ
 ## 🤝 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/omkar-pittala-70b534275/
-* GitHub: 
+* GitHub: https://github.com/OmkarPittala
