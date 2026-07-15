@@ -4,7 +4,7 @@ Senior Software Developer with around 7 years of experience building enterprise 
 
 ## 🚀 About Me
 
-* Senior Java Full Stack Developer
+* Senior Software Developer
 * Experienced in Microservices and Distributed Systems
 * Building Cloud-Native Applications on AWS
 * Passionate about Software Architecture and System Design
