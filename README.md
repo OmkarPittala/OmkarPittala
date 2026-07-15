@@ -33,10 +33,6 @@ Senior Java Full Stack Developer with around 7 years of experience building ente
 * Retrieval-Augmented Generation (RAG)
 * Cloud-native architectures
 * Distributed systems design
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarPittala&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarPittala&layout=compact)
 
 ## 🤝 Connect With Me
 
