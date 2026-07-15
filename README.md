@@ -1,6 +1,6 @@
 # Hi, I'm Omkar 👋
 
-Senior Java Full Stack Developer with around 7 years of experience building enterprise applications across Banking, Retirement Services, and Healthcare domains.
+Senior Software Developer with around 7 years of experience building enterprise applications across Banking, Retirement Services, and Healthcare domains.
 
 ## 🚀 About Me
 
